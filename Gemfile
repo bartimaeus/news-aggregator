@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'redis', '~>3.2'
+gem 'json'
+gem 'rspec'
+gem 'vcr'
+gem 'fakeweb'
+gem 'crack'
+gem 'rubyzip'
+gem 'httparty'
+gem 'wombat'
+gem 'colorize'
