@@ -1,6 +1,6 @@
 # News Aggregator
 
-New Aggregator is a quick and dirty project to collect and store new stories from [ogili.com](http://ogili.com) in Redis.
+New Aggregator is a quick and dirty project to collect and store new stories from [omgili.com](http://omgili.com) in Redis.
 
 ## Usage:
 
